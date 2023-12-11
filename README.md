@@ -4,5 +4,5 @@ MSM Implementation: ```MSM.ipynb```
 
 Deep Learning Implementation:
 
-Graph-based Representation Learning Implementation:
+Graph-based Representation Learning Implementation: ```GNN.ipynb```
 
