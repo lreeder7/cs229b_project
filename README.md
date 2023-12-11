@@ -1,6 +1,6 @@
 # CS229B Course Project
 
-MSM Implementation: 'MSM.ipynb'
+MSM Implementation: ```MSM.ipynb```
 
 Deep Learning Implementation:
 
